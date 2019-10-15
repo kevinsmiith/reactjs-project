@@ -22,18 +22,7 @@ export default class Main extends Component {
     const { products } = this.state;
     return (
       <div>
-        {products.map(product => (
-          <table className="table-products" key={product._id}>
-            <tr>
-              <th>Tecnologia</th>
-              <th>Descrição</th>
-            </tr>
-            <tr>
-              <td>{product.title}</td>
-              <td>{product.description}</td>
-            </tr>
-          </table>
-        ))}
+        <h1>pagina home</h1>
       </div>
     );
   }
