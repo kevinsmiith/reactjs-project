@@ -9,7 +9,7 @@
 
 <li>Loja Virtual. Venda de produtos, serviços e etc.</li>
 <li>Desenvolvendo utilizando ReactJS.</li>
-<li>Nodejs sendo utilizado como Back-end.</li>
+<li>Nodejs sendo utilizado no Back-end.</li>
 
 <div>
 <h2>Bibliotecas Utilizadas</h2>
